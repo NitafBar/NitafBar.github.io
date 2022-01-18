@@ -1,4 +1,4 @@
-Type www.nitafbar.github.io into the URL to view the Github Pages website.
+Type nitafbar.github.io into the URL to view the Github Pages website.
 
 ---------------------------------------------------------------------------
 
