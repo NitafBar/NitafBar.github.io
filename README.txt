@@ -1,5 +1,7 @@
-Copy nitafbar.github.io into your browser's URL to view the Github Pages website.
+##Copy nitafbar.github.io into your browser's URL to view the Github Pages website.
+
 ----------------------------------------------------------------------------------
+
 Phantom by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
