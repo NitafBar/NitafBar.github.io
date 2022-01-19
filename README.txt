@@ -1,5 +1,4 @@
 Copy nitafbar.github.io into your browser's URL to view the Github Pages website.
-
 ---------------------------------------------------------------------------
 
 Phantom by HTML5 UP
