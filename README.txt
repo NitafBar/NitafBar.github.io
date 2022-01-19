@@ -1,4 +1,6 @@
-# Copy nitafbar.github.io into your browser's URL to view the Github Pages website.
+Copy nitafbar.github.io into your browser's URL to view the Github Pages website.
+
+A service advertising website created by editing the Phantom by HTML5 UP template.
 
 ----------------------------------------------------------------------------------
 
